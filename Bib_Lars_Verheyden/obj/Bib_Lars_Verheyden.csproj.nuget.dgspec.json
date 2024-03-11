@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\s136636\\Desktop\\OO Programmeren\\Bib_Lars_Verheyden\\Bib_Lars_Verheyden.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\s136636\\Desktop\\OO Programmeren\\Bib_Lars_Verheyden\\Bib_Lars_Verheyden.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s136636\\Desktop\\OO Programmeren\\Bib_Lars_Verheyden\\Bib_Lars_Verheyden.csproj",
+        "projectName": "Bib_Lars_Verheyden",
+        "projectPath": "C:\\Users\\s136636\\Desktop\\OO Programmeren\\Bib_Lars_Verheyden\\Bib_Lars_Verheyden.csproj",
+        "packagesPath": "C:\\Users\\s136636\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s136636\\Desktop\\OO Programmeren\\Bib_Lars_Verheyden\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s136636\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

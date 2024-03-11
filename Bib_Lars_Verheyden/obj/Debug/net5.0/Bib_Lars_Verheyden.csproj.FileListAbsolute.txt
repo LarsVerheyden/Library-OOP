@@ -1,0 +1,15 @@
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\bin\Debug\net5.0\Bib_Lars_Verheyden.exe
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\bin\Debug\net5.0\Bib_Lars_Verheyden.deps.json
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\bin\Debug\net5.0\Bib_Lars_Verheyden.runtimeconfig.json
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\bin\Debug\net5.0\Bib_Lars_Verheyden.runtimeconfig.dev.json
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\bin\Debug\net5.0\Bib_Lars_Verheyden.dll
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\bin\Debug\net5.0\Bib_Lars_Verheyden.pdb
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\obj\Debug\net5.0\Bib_Lars_Verheyden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\obj\Debug\net5.0\Bib_Lars_Verheyden.AssemblyInfoInputs.cache
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\obj\Debug\net5.0\Bib_Lars_Verheyden.AssemblyInfo.cs
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\obj\Debug\net5.0\Bib_Lars_Verheyden.csproj.CoreCompileInputs.cache
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\obj\Debug\net5.0\Bib_Lars_Verheyden.dll
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\obj\Debug\net5.0\refint\Bib_Lars_Verheyden.dll
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\obj\Debug\net5.0\Bib_Lars_Verheyden.pdb
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\obj\Debug\net5.0\Bib_Lars_Verheyden.genruntimeconfig.cache
+C:\Users\s136636\Desktop\OO Programmeren\Bib_Lars_Verheyden\obj\Debug\net5.0\ref\Bib_Lars_Verheyden.dll
